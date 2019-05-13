@@ -1,0 +1,24 @@
+{
+  "name": "fcc-api-microservices-projects",
+  "version": "1.0.0",
+  "description": "API-Microservices Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.12.4",
+    "cors": "^2.8.0",
+    "dotenv": "^8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mechbullgt/fcc-api-microservices-projects.git"
+  },
+  "author": "Maqbool Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mechbullgt/fcc-api-microservices-projects/issues"
+  },
+  "homepage": "https://github.com/mechbullgt/fcc-api-microservices-projects#readme"
+}
