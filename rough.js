@@ -1,0 +1,15 @@
+// let x = Date.now();
+// console.log('x :', x);
+// //console.log('Date.parse(x) :', Date.parse(x));
+// let utcDate = new Date(x*1000).toUTCString();
+// console.log('utcDate :', utcDate);
+// console.log('(utcDate==="Invalid Date") :', (utcDate==="Invalid Date"));
+let dateTimeString="2015/x";
+let alphaCheck = dateTimeString.match(/[0-9-]/g);
+console.log('alphaCheck :', alphaCheck);
+// let y= Date.now();
+// console.log('Date.parse(x) :', Date.parse(x));
+// console.log('Date.parse(y) :', Date.parse(y));
+// let unixDate = new Date(x).getTime();
+// console.log('unixDate :', new Date(unixDate).toUTCString());
+// console.log('(unixDate==="Invalid Date") :', (unixDate==="Invalid Date"));
